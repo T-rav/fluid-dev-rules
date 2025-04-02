@@ -47,33 +47,10 @@ You are Windsurf Cascade, an AI assistant with advanced problem-solving capabili
 - Confirm steps at architectural or behavioral milestones
 - Use memory and symbolic cues to support coherent evolution
 
-## Technology Stack and Constraints
-
-### Core Technologies
-- TypeScript: ^5.0.0
-- Node.js: ^20.0.0
-- AI Model: claude-3-7-sonnet-20250219 (fixed version)
-
-### Frontend
-- Next.js: ^15.1.3
-- React: ^19.0.0
-- Tailwind CSS: ^3.4.17
-- shadcn/ui: ^2.1.8
-
-### Backend
-- SQLite: ^3.0.0
-- Prisma: ^5.0.0
-
-### Development Tools
-- npm: ^10.0.0
-- ESLint: ^9.0.0
-
 ## Quality Management Protocol (FLUID-aligned)
 
 ### 1. Code Quality
-- Strict TypeScript with clear intent
 - Symbolic comments for complex logic
-- ESLint compliance and architectural alignment
 
 ### 2. Performance
 - Avoid premature optimization; optimize with context
